@@ -38,8 +38,10 @@ Ini isi crontab yang akan dicopy & pastekan pada field/kolom crontab.
 ## Reload Rules Yacd
 
 Sangat direkomendasikan jika setelah menjalan script `u-rule` sebaiknya
+
 <span style="color: green"> **RELOAD RULES PADA YACD** </span>
-dengan begitu rule terbaru akan terpasang dengan sempurna.
+
+Dengan begitu rule terbaru akan terpasang dengan sempurna.
 
 ## Support Kami
 
