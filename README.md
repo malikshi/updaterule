@@ -43,8 +43,6 @@ Sangat direkomendasikan jika setelah menjalan script `u-rule` sebaiknya
 + RELOAD RULES PADA YACD
 ```
 
-<p>Hi here is some text <span>this is red</span>.</p>
-
 Dengan begitu rule terbaru akan terpasang dengan sempurna.
 
 ## Support Kami
