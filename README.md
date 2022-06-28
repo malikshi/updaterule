@@ -35,6 +35,10 @@ Ini isi crontab yang akan dicopy & pastekan pada field/kolom crontab.
 30 3,15 * * * /usr/bin/u-rule
 ```
 
+## Reload Rules Yacd
+
+Sangat direkomendasikan jika setelah menjalan script `u-rule` sebaiknya <span style="color: green"> **RELOAD RULES PADA YACD** </span>dengan begitu rule terbaru akan terpasang dengan sempurna.
+
 ## Support Kami
 
 Support kami dengan join dan membeli VVIP IPTUNNELS
