@@ -39,7 +39,11 @@ Ini isi crontab yang akan dicopy & pastekan pada field/kolom crontab.
 
 Sangat direkomendasikan jika setelah menjalan script `u-rule` sebaiknya
 
-<span style="color: green"> **RELOAD RULES PADA YACD** </span>
+```diff
++ RELOAD RULES PADA YACD
+```
+
+<p>Hi here is some text <span>this is red</span>.</p>
 
 Dengan begitu rule terbaru akan terpasang dengan sempurna.
 
