@@ -34,6 +34,7 @@ rule_disneyplus
 rule_games
 rule_hbo
 rule_hbohk
+rule_hboasia
 rule_hbousa
 rule_iqiyi
 rule_iqiyiinter
