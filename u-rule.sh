@@ -13,7 +13,7 @@ cat >/tmp/rulesname << EOF
 rule_umum
 rule_portgames
 rule_videoconferences
-rule_Indo
+rule_indo
 rule_sosmed
 rule_streaming
 rule_gaming
@@ -46,7 +46,7 @@ rule_playstore
 rule_tiktok
 rule_twitch
 rule_twitter
-rule_Youtube
+rule_youtube
 EOF
 
 clear
