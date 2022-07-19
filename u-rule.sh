@@ -24,6 +24,7 @@ rule_privacy
 rule_basicads
 rule_personalads
 rule_malicious
+rule_maliciousip
 rule_falsepositive
 rule_porn
 rule_nsfw
